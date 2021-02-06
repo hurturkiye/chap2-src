@@ -1,2 +1,4 @@
 manage.py
-chap2\__init__.py
+db.sqlite3
+chap2/__pycache__/
+chap2/__init__.py

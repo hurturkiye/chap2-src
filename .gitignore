@@ -3,3 +3,6 @@ db.sqlite3
 chap2/__pycache__/
 chap2/__init__.py
 chap2/settings.py
+pages/migrations/
+pages/__pycache__/
+pages/__init__.py
